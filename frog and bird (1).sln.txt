@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8764A38E-4675-0756-0B82-3436267A4A93}") = "frog and bird", "Assembly-UnityScript.unityproj", "{CBD63656-6BAF-93B7-62DA-1A11EA0B1702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBD63656-6BAF-93B7-62DA-1A11EA0B1702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD63656-6BAF-93B7-62DA-1A11EA0B1702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD63656-6BAF-93B7-62DA-1A11EA0B1702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD63656-6BAF-93B7-62DA-1A11EA0B1702}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
